@@ -1,0 +1,153 @@
+kamini.n.chaudhari@
+Manual Mobile Testing
+===========================
+verification---dev
+validation--Testing
+==============
+Vysor
+Android Studio
+GUI Testing
+=================
+Valid Credentionals
+Negtive Credentials
+-----------------------
+Defect and Bug and Error and failure
+--------------------------
+Mobile Web App
+Native App
+=================
+SDLC()
+-----------
+intial phase---Req
+B.A--->3 apps--150-->folder-->BRS,FRS,BDD,BD,urs
+Analysis Phase 
+system Anaylist--->150, with ,time---SRS
+Design Phase---TDD
+coding Phase
+dev--Progre------------------>SCD
+Testing Phase
+Android Studio
+one rel device--Android
+Req Document
+Test Case document
+
+
+Delivery and Maintence
+========================
+Testing Methods or Techniques
+-----------------------------------
+Black Box Testing who will verify the application functionality in our device(BBT)
+white Box Testin
+Grey box Testing
+-------------------
+levels of Testing
+-------------------------
+Unit level --dev
+Module level 
+integration level
+system Level
+userAcceptance level
+===========================
+software devolopment processmodel
+-----------------------------------
+99% Agile Methodology
+quick delivery
+Sprint:particulaer time mesurment
+max 3 min 2
+2 weeks
+20
+scrum
+=============
+1 Product owner 
+2.scrum Master
+3 Dev Team
+4.scrum Team
+===============
+Scrum Events
+=================
+Standup Meeting---
+Sprint planing meeting--
+Sprint Reviwe Meeting--12th day
+Redrospective meeting--10 or 8
+====================
+BUg Life Cycle
+=================
+Seviority and priority
+=======================
+Fatal
+Major
+Minor
+-------------
+priority
+=============
+Critical
+Major
+Minor
+---------------
+ERT--app
+UserName--
+Password--
+Login
+-------------
+1--20  submodules
+---------------
+Patiant
+=======
+STLC
+======
+1.Test plane
+5.
+Coverage of Testing
+100---80--20
+1.Feature to be testing 
+2.Feature not to be testing
+Test Design Techniques
+============
+1.BVA(
+lb   lb-1   lb+1   ub   ub-1    ub+1
+
+6    5        7     40   39       41
+==================================
+
+6-40)
+2.ECP
+valid data     invalid data
+
+1-10            11--20
+21-30
+
+3.State Transction
+
+4.Desion Table
+
+===========
+Test plne and Test Strategy
+-----------------------
+Entry creteria and Exit creteria
+==========================
+
+2.Test development
+RTM
+DTM
+============
+3.Test Execution
+4.Result Analysis
+5.Bug Tracking
+6.Reporting
+==========
+ADB
+RealTime Manual Android
+Automation Android
+Basics
+==================
+
+==========================================================
+Android Manual Testing
+ADB Commandans
+
+
+
+
+
+
+
